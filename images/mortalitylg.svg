@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="112.87411mm"
+   height="112.87411mm"
+   viewBox="0 0 112.87411 112.87411"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="mortalitylg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="true"
+     inkscape:zoom="0.7500982"
+     inkscape:cx="213.3054"
+     inkscape:cy="394.615"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     lock-margins="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(16.931114,-44.09145)">
+    <g
+       id="g2899">
+      <path
+         style="fill:#008080;fill-rule:evenodd;stroke-width:3.77953"
+         id="path2400"
+         sodipodi:type="arc"
+         sodipodi:cx="39.505939"
+         sodipodi:cy="100.5285"
+         sodipodi:rx="56.437054"
+         sodipodi:ry="56.437054"
+         sodipodi:start="2.2589273"
+         sodipodi:end="2.2289774"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         d="M 3.6630719,144.12242 A 56.437054,56.437054 0 0 1 -4.3551287,65.013046 56.437054,56.437054 0 0 1 74.691996,56.402746 56.437054,56.437054 0 0 1 83.893912,135.38319 56.437054,56.437054 0 0 1 4.9845845,145.1762" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.0801px;line-height:1.25;font-family:Broadway;-inkscape-font-specification:'Broadway, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.894265"
+         x="1.0641533"
+         y="128.10286"
+         id="text1252"><tspan
+           sodipodi:role="line"
+           id="tspan1250"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.0801px;font-family:Broadway;-inkscape-font-specification:'Broadway, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.894265"
+           x="1.0641533"
+           y="128.10286">M</tspan></text>
+    </g>
+  </g>
+</svg>

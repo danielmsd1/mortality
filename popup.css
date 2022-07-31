@@ -1,0 +1,20 @@
+body{
+	height: 340px;
+	width: 250px;
+	font-size: 14px;
+	text-align: center;
+}
+button{
+	width: 100%;
+	height: 35px;
+	margin: 2px;
+	border-radius: 10px;
+	border: none;
+}
+button:hover{
+	box-shadow: 0 1px #417D7A;
+	cursor: pointer;
+}
+a{
+	margin-bottom: 10px;
+}
